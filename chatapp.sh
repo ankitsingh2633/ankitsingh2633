@@ -205,7 +205,7 @@ forgot_password() {
                 fi
             done
         else
-            echo "❌ Invalid or expired OTP."
+            echo "❌ Invalid or expired OTP Try again ."
         fi
     else
         echo "❌ Email not found."
