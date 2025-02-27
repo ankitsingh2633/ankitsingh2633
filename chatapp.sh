@@ -246,7 +246,7 @@ while true; do
         2) signup ;;
         3) forgot_password ;;
         4) echo -e "${YELLOW}👋 See you next time bye bye !${NC}"; exit ;;
-        *) echo -e "${RED}❗ Invalid input try again.${NC}"; pause ;;
+        *) echo -e "${RED}❗ Invalid input try again fast.${NC}"; pause ;;
     esac
 done
 # Entry Menu
