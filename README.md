@@ -12,14 +12,6 @@
 
 ---
 
-## 📚 Professional Experience
-### 🏢 WNS Global Services — Software Developer Apprentice *(05/2024 - 09/2024)*
-✅ Engineered scalable web applications with React.js & Node.js, boosting frontend performance by 30%.  
-✅ Improved REST APIs, reducing server response times by 25% for efficient data retrieval.  
-✅ Implemented unit testing with Jest & React Testing Library, achieving 85% code coverage & reducing production bugs by 40%.  
-
----
-
 ## 📫 How to Reach Me
 🌐 **Portfolio:** [My Portfolio](https://myprofile-phi-rosy.vercel.app/)  
 📧 **Email:** [ankitsingh2633kvs@gmail.com](mailto:ankitsingh2633kvs@gmail.com)  
